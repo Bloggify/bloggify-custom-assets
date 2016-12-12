@@ -1,6 +1,6 @@
 {
-  "name": "bloggify-markdown-highlight",
-  "description": "Highlight code blocks in the Markdown code.",
+  "name": "bloggify-custom-assets",
+  "description": "Inject custom assets in Bloggify pages.",
   "keywords": [
     "bloggify",
     "markdown",
@@ -33,10 +33,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-markdown-highlight.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-custom-assets.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-markdown-highlight/issues"
+    "url": "https://github.com/IonicaBizau/bloggify-custom-assets/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-markdown-highlight#readme"
+  "homepage": "https://github.com/IonicaBizau/bloggify-custom-assets#readme",
+  "bloggify": {
+    "config": {
+      "styles": [],
+      "scripts": []
+    }
+  }
 }
