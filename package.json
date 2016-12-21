@@ -42,7 +42,8 @@
   "bloggify": {
     "config": {
       "styles": [],
-      "scripts": []
+      "scripts": [],
+      "server": []
     }
   }
 }
