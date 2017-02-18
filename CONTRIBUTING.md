@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/bloggify-custom-assets/issues
+[1]: https://github.com/Bloggify/custom-assets/issues
 
 [2]: https://github.com/IonicaBizau/code-style
