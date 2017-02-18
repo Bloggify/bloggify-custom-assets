@@ -16,29 +16,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
-    "public/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-custom-assets.git"
+    "url": "git+ssh://git@github.com/Bloggify/custom-assets.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-custom-assets/issues"
+    "url": "https://github.com/Bloggify/custom-assets/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-custom-assets#readme",
+  "homepage": "https://github.com/Bloggify/custom-assets#readme",
   "bloggify": {
     "config": {
       "styles": [],
